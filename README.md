@@ -1,16 +1,35 @@
-## Hi there 👋
+### 👋 Hi there! I'm João Lucas
 
-<!--
-**joaomazetti03/joaomazetti03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a university student currently in the final stages of my course.  
+💻 I’m passionate about backend development.  
+🚀 I’m learning and building with **Java**, **SQL**, **Kotlin** and **PostgreSQL**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+- 💻 Java & Kotlin
+- 🗄️ SQL & PostgreSQL
+- 🔧 Git & GitHub
+- 🌐 Basics of REST APIs
+
+---
+
+### 📚 Currently Learning
+- Spring Boot (Java Backend Framework)  
+- Database design & optimization  
+- Software architecture principles
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/joao-mazetti/)  
+- Email: joaolucas.mazetti@outlook.com
+
+---
+
+> "Always learning. Always building."
