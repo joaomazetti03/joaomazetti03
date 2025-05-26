@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm João Lucas
 
-🌎 I'm from 🇧🇷 Brazil.
+🌎 I'm from 🇧🇷 Brazil.<br>
 🎓 I’m a university student currently in the final stages of my course.  
 💻 I’m passionate about backend development.  
 🚀 I’m learning and building with **Java**, **Kotlin**, **SQL** and **PostgreSQL**.  
