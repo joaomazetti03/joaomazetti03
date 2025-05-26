@@ -12,13 +12,15 @@
 - 🗄️ SQL & PostgreSQL
 - 🔧 Git & GitHub
 - 🌐 Basics of REST APIs
+- ☁️ Learning Spring Boot for backend development
 
 ---
 
 ### 📚 Currently Learning
-- Spring Boot (Java Backend Framework)  
+- Spring Boot (Java & Kotlin)  
 - Database design & optimization  
 - Software architecture principles
+- Backend best pratices
 
 ---
 
