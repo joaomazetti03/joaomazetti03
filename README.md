@@ -25,8 +25,8 @@
 ---
 
 ### 📈 GitHub Stats
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomazetti03&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomazetti03&layout=compact&theme=tokyonight)
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomazetti03&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomazetti03&layout=compact&theme=dracula)
 
 ---
 
