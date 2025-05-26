@@ -22,7 +22,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomazetti03&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomazetti03&layout=compact&theme=tokyonight)
 
 ---
 
