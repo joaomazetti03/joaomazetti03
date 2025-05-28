@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o João Lucas Mazetti 👋 | Hello! I'm João L. Mazetti 👋</h1>
+<h1 align="center">Olá! Eu sou o João Lucas Mazetti | Hello! I'm João L. Mazetti 👋</h1>
 
 <p align="center">
   Desenvolvedor Backend apaixonado por tecnologia ☕ | Backend Developer passionate about technology 🚀
