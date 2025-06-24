@@ -1,34 +1,45 @@
-<h1 align="center">Olá! Eu sou o João Lucas Mazetti | Hello! I'm João L. Mazetti 👋</h1>
+<h1 align="center">Olá! Eu sou o João Lucas | Hello! I'm João Lucas 👋</h1>
 
 <p align="center">
-  Desenvolvedor Backend apaixonado por tecnologia ☕ | Backend Developer passionate about technology 🚀
+  Desenvolvedor Backend (em formação) apaixonado por tecnologia ☕ | Aspiring Backend Developer passionate about technology 🚀
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mim | About Me
 
-🇧🇷 Olá! Me chamo João, sou um desenvolvedor backend com foco em Java e Kotlin. Tenho paixão por construir APIs robustas, sistemas escaláveis e soluções inteligentes. Também estou explorando cloud, bancos de dados e ferramentas modernas para backend.
+🇧🇷 Olá! Me chamo João e sou **recém-formado em Análise e Desenvolvimento de Sistemas**. Atualmente, estou focado em aprofundar meus conhecimentos em **desenvolvimento backend**, com ênfase em **Java e Spring Boot**, e estou ativamente buscando minha **primeira oportunidade** na área. Tenho paixão por construir **APIs robustas**, **sistemas escaláveis** e **soluções inteligentes**. Além disso, estou explorando o ecossistema de **cloud**, **bancos de dados** e ferramentas modernas para backend.
 
-🇺🇸 Hi! I'm João, a backend developer focused on Java and Kotlin. I'm passionate about building robust APIs, scalable systems, and smart solutions. I'm also diving into cloud, databases, and modern backend tools.
+🇺🇸 Hi! I'm João and I'm a **recent graduate in Systems Analysis and Development**. Currently, I'm focused on deepening my knowledge in **backend development**, with an emphasis on **Java and Spring Boot**, and I'm actively seeking my **first job opportunity** in the field. I'm passionate about building **robust APIs**, **scalable systems**, and **smart solutions**. Additionally, I'm exploring the **cloud** ecosystem, **databases**, and modern backend tools.
 
 ---
 
-## 🚀 Tecnologias | Technologies
+## 🚀 Tecnologias e Habilidades | Technologies & Skills
 
-**Backend:**  
+Aqui estão as tecnologias com as quais já tenho familiaridade e as que estou aprendendo:
+
+**Backend:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-**Banco de Dados | Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Banco de Dados | Databases:**
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Ferramentas | Tools:**  
+**Ferramentas | Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🌱 O que estou aprendendo | What I'm Learning
+
+Estou expandindo meus conhecimentos e me aprofundando nas seguintes tecnologias:
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
