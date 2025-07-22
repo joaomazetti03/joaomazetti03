@@ -1,6 +1,10 @@
 # Hi! I'm João Lucas 👋
 
-### System Developer (in training) in love for tecnology ☕🚀
+### System Developer (in training) in love for tecnology 🖥️
+
+## 🧑‍💻 My Roadmap Progress
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6833c57fcf080f2a32df45d6?variant=dark)](https://roadmap.sh)
 
 ## 📈 GitHub Stats
 
