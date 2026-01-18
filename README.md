@@ -1,6 +1,6 @@
 # Hi! I'm João Lucas 👋
 
-### System Developer (in training) in love for tecnology 🖥️
+### System Developer
 
 ## 🧑‍💻 My Roadmap Progress
 
@@ -15,7 +15,7 @@
 
 ## 📫 Contato | Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomazetti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-mazetti/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaolucas.mazetti@outlook.com)
 
 ---
