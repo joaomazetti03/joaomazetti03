@@ -8,8 +8,8 @@
 
 ## 📈 GitHub Stats
 
-[![João Mazetti GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomazetti03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomazetti03&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![João Mazetti GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlmazetti&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlmazetti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
